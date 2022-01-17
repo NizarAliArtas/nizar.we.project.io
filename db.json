@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "TEST",
+      "email": "test@gmail.com",
+      "mobile": 213213,
+      "address": "adsd",
+      "services": "nil"
+    },
+    {
+      "id": 3,
+      "name": "My rest",
+      "email": "alinizar098@gmail.com",
+      "mobile": 5814921171,
+      "address": "P.O. Gupis, village Pingal, Tehsil Gupis, District Ghizer",
+      "services": "csdf"
+    },
+    {
+      "id": 4,
+      "name": "abc",
+      "email": "alinizar098@gmail.com",
+      "mobile": 12321321123,
+      "address": "nnsns",
+      "services": "sadasd"
+    },
+    {
+      "id": 5,
+      "name": "TEST",
+      "email": "test@gmail.com",
+      "mobile": 2132133,
+      "address": "adsd",
+      "services": "nil"
+    },
+    {
+      "id": 6,
+      "name": "TEST",
+      "email": "test@gmail.com",
+      "mobile": 2132134,
+      "address": "adsd",
+      "services": "nil"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "signup":[],
+  "profile": {
+    "name": "typicode"
+  }
+}
